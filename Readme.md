@@ -3,7 +3,7 @@ Raspberry Pi Zero W 用 ROS Kinetic環境構築ファイル
 
 ## Description
 「ROSではじめるホビーロボット#06」で紹介したRaspberry Pi Zero W へROS Kinetic環境を簡単にインストールするためのdebパッケージです。   
-releasからダウンロードしたファイルをインストールして下さい。   
+releasesからダウンロードしたファイルをインストールして下さい。   
 リポジトリから取得する外部ファイルの更新などでエラーが発生する可能性があります。この場合は誌面を参考にエラーを解決して下さい。   
 
 ## Requirement
